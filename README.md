@@ -1,2 +1,2 @@
-# Automacao Testes Web no VSCode
+# Automacao testes Web no VSCode
 # Desafio 13
